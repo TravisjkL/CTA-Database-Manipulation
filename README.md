@@ -1,2 +1,4 @@
-# CTA-Database-Manipulation
-Using Python and SQL
+# CTA Database Manipulation
+
+Using information from a database regarding ridership of CTA (Chicago Transit Authority) train stations, created a program to manipulate those values into easy to process visuals.
+Created 09/27/2022
